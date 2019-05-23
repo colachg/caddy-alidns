@@ -1,4 +1,4 @@
-import _ "github.com/colachg/caddy-alidns"
+`import _ "github.com/colachg/caddy-alidns"`
 
 ```
 tls {
