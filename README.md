@@ -2,7 +2,7 @@
 
 ```
 tls {
-    dns ali
+    dns alidns
 }
 ```
 
