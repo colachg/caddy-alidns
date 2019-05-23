@@ -6,4 +6,4 @@ tls {
 }
 ```
 
-set environment ALICLOUD_ACCESS_KEY and ALICLOUD_SECRET_KEY.
+set environment `ALICLOUD_ACCESS_KEY` and `ALICLOUD_SECRET_KEY`.
