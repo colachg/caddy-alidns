@@ -1,2 +1,9 @@
-# caddy-ali
-caddy ali dns plugin
+import _ "github.com/colachg/caddy-alidns"
+
+```
+tls {
+    dns ali
+}
+```
+
+set environment APIKey and SecretKey.
